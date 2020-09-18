@@ -1,0 +1,159 @@
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\bin\Debug\AutomobPredp.mdb
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\bin\Debug\Klientka.exe.config
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\bin\Debug\Klientka.exe
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\bin\Debug\Klientka.pdb
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.csprojAssemblyReference.cache
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Form1.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Properties.Resources.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Бригады.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Должность.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Изделия.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Инженерно_технический_персонал.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Испытания.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Испытательные_лаборатории.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Категории_изделия.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Назначение_в_бригаду.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Оборудование.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Отдел.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Поставка.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Поставщик.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Приём_на_работу.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Продажа.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Работники.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Работы.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Склад.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Тип_изделия.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Участки.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.Цеха.resources
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.csproj.GenerateResource.cache
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.csproj.CoreCompileInputs.cache
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.exe
+C:\Users\Lord Swan3x\source\repos\Klientka\Klientka\obj\Debug\Klientka.pdb
+C:\Users\Александр\Desktop\Klientka\Klientka\bin\Debug\AutomobPredp.mdb
+C:\Users\Александр\Desktop\Klientka\Klientka\bin\Debug\Klientka.exe.config
+C:\Users\Александр\Desktop\Klientka\Klientka\bin\Debug\Klientka.exe
+C:\Users\Александр\Desktop\Klientka\Klientka\bin\Debug\Klientka.pdb
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Form1.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Properties.Resources.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Бригады.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Должность.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Изделия.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Инженерно_технический_персонал.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Испытания.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Испытательные_лаборатории.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Категории_изделия.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Назначение_в_бригаду.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Оборудование.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Отдел.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Поставка.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Поставщик.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Приём_на_работу.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Продажа.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Работники.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Работы.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Склад.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Тип_изделия.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Участки.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Цеха.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.exe
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.pdb
+C:\Users\Александр\Desktop\Klientka\Klientka\obj\Debug\Klientka.Авторизация.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\bin\Debug\AutomobPredp.mdb
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\bin\Debug\Klientka.exe.config
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\bin\Debug\Klientka.exe
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\bin\Debug\Klientka.pdb
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Form1.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Properties.Resources.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Авторизация.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Бригады.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Должность.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Изделия.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Инженерно_технический_персонал.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Испытания.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Испытательные_лаборатории.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Категории_изделия.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Назначение_в_бригаду.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Оборудование.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Отдел.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Поставка.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Поставщик.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Приём_на_работу.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Продажа.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Работники.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Работы.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Склад.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Тип_изделия.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Участки.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Цеха.resources
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.exe
+C:\Users\Александр\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.pdb
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\bin\Debug\AutomobPredp.mdb
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\bin\Debug\Klientka.exe.config
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\bin\Debug\Klientka.exe
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\bin\Debug\Klientka.pdb
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.csprojAssemblyReference.cache
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Form1.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Properties.Resources.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Авторизация.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Бригады.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Должность.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Изделия.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Инженерно_технический_персонал.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Испытания.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Испытательные_лаборатории.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Категории_изделия.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Назначение_в_бригаду.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Оборудование.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Отдел.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Поставка.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Поставщик.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Приём_на_работу.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Продажа.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Работники.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Работы.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Склад.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Тип_изделия.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Участки.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.Цеха.resources
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.csproj.GenerateResource.cache
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.csproj.CoreCompileInputs.cache
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.exe
+C:\Users\Chiter\Desktop\Klientka\Klientka\Klientka\obj\Debug\Klientka.pdb
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\bin\Debug\AutomobPredp.mdb
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\bin\Debug\Klientka.exe.config
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\bin\Debug\Klientka.exe
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\bin\Debug\Klientka.pdb
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.csprojAssemblyReference.cache
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Form1.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Properties.Resources.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Авторизация.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Бригады.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Должность.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Изделия.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Инженерно_технический_персонал.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Испытания.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Испытательные_лаборатории.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Категории_изделия.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Назначение_в_бригаду.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Оборудование.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Отдел.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Поставка.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Поставщик.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Приём_на_работу.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Продажа.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Работники.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Работы.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Склад.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Тип_изделия.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Участки.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.Цеха.resources
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.csproj.GenerateResource.cache
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.csproj.CoreCompileInputs.cache
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.exe
+C:\Users\Chiter\Source\Repos\FinallArrow\Klienka\Klientka\obj\Debug\Klientka.pdb
